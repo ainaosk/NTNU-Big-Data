@@ -7,3 +7,6 @@ Using the k-means clustering algorithm
 
 ## Classification
 Using the K-Nearest Neighbors (KNN) algorithm
+
+## Association Rule Mining
+Using the Apriori algorithm
